@@ -1,4 +1,4 @@
-a# create dynamodb table
+# create dynamodb table
 $ aws dynamodb create-table \
     --table-name Music \
     --attribute-definitions \
