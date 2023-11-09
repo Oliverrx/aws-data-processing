@@ -1,4 +1,4 @@
-{Lambda-DynamoDB-Event-Source-Mapping-Template.JSON
+{
     "Description": "Third Week Second Assignment DynamoBD EventSourceMapping",
     "Parameters": {
         "AccountID": {
